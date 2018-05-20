@@ -4,7 +4,11 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "jest",
+    "tsc": "tsc",
+    "clean": "rm -rf artifacts",
+    "build": "npm run clean && npm run tsc --",
+    "lint": "tslint src/**/*.tsx"
   },
   "dependencies": {
     "react": "16.3.1",
@@ -21,16 +25,12 @@
     "react-test-renderer": "16.3.1",
     "tslint": "^5.10.0",
     "tslint-config-prettier": "^1.12.0",
+    "tslint-eslint-rules": "^5.3.1",
     "tslint-react": "^3.6.0",
     "tslint-react-recommended": "^1.0.15",
     "typescript": "^2.8.3"
   },
   "jest": {
     "preset": "react-native"
-  },
-  "prettier": {
-    "printWidth": 160,
-    "parser": "babylon",
-    "semi": false
   }
 }

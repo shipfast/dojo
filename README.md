@@ -4,7 +4,7 @@ This codebase is contributed to live on Twitch: https://www.twitch.tv/shipfast/.
 
 ## The DOjo app
 
-Want to read a book every day this week, or maybe get yourself to finally go to the gym?  Imagine an app that you and your friends can use to support each other in reaching their goals. Enter the DOjo, a group bound together with a mission of success—share in the same objective or commit to your own.  Encourage each other to succeed with rewards, and punish those who might fail.
+Want to read a book every day this week, or maybe get yourself to finally go to the gym?  Imagine an app that you and your friends can use to support each other in reaching your goals. Enter the DOjo, a room that binds those who enter together by a shared mission: training to be better. Share in the same goals or create your own.  Encourage each other to succeed with rewards, and punish those who dare fail.
 
 A dojo lasts for 1 week—complete it and others back-to-back to earn streak bonuses, and compete with your fellow DOjoers.
 

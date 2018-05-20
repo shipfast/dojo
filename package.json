@@ -22,9 +22,15 @@
     "tslint": "^5.10.0",
     "tslint-config-prettier": "^1.12.0",
     "tslint-react": "^3.6.0",
+    "tslint-react-recommended": "^1.0.15",
     "typescript": "^2.8.3"
   },
   "jest": {
     "preset": "react-native"
+  },
+  "prettier": {
+    "printWidth": 160,
+    "parser": "babylon",
+    "semi": false
   }
 }

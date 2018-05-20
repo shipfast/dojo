@@ -1,6 +1,4 @@
 {
-	"extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
-	"rules": {
-		"jsx-wrap-multiline": false
-	}
+	"extends": ["tslint-react-recommended", "tslint:latest", "tslint-react", "tslint-config-prettier"],
+	"rules": {}
 }

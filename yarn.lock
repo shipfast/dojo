@@ -5010,6 +5010,10 @@ tslint-config-prettier@^1.12.0:
   version "1.12.0"
   resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.12.0.tgz#bc8504f286ecf42b906f3d1126a093114f5729cc"
 
+tslint-react-recommended@^1.0.15:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/tslint-react-recommended/-/tslint-react-recommended-1.0.15.tgz#4166dc7d87b57280110673c99315a35ac5a76a7e"
+
 tslint-react@^3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/tslint-react/-/tslint-react-3.6.0.tgz#7f462c95c4a0afaae82507f06517ff02942196a1"
